@@ -1,0 +1,117 @@
+.w{
+   width: 150px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.m{
+    width: 150px;
+    background-color: aliceblue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: 100px;
+   position: relative;
+   left: 50px;
+}
+
+.sb{
+    background-color: aliceblue;
+    width: 100px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    
+}
+.img1{
+width: 30px;
+height: 30px;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+    }
+    .img3{
+        width: 30px;
+        height: 30px;
+        }
+
+div{
+    display: flex;
+    
+}
+.prof{
+    position: relative;
+    left: 1450px;
+}
+.sc{
+    position: relative;
+    left: 1400px;
+}
+.div1{
+background-color: aliceblue;
+width: 600px;
+height: 250px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+top: 50px;
+text-wrap: balance;
+
+}
+p{
+    position: relative;
+    top: 40px;
+    right: 230px;
+}
+.div2{
+   background-color: aqua;
+    width: 600px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}
+.image{
+position: relative;
+bottom: 30px;
+left: 20px;
+width: 55px;
+height: 55px;
+}
+.st{
+    position: relative;
+    right: 370px;
+top:30px ;
+width: 55px;
+height: 55px;
+
+}
+.nike{
+    background-color: aliceblue;
+    width: 600px;
+    height: 550px;
+    position: relative;
+    left: 800px;
+    bottom: 455px;
+}
+ 
+.p1{
+    color: grey;
+    position:relative ;
+    right: 1px;
+}
+.p2{
+    position: relative;
+    right: 2px;
+}
